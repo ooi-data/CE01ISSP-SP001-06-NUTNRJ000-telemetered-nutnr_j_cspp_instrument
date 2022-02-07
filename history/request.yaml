@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE01ISSP-SP001-06-NUTNRJ000-telemetered-nutnr_j_cspp_instrument
-last_request: '2022-01-21T18:19:20.794496Z'
+last_request: '2022-02-07T17:38:10.438262Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSP-SP001-06-NUTNRJ000-telemetered-nutnr_j_cspp_instrument/main/history/response.json
 status: discontinued
